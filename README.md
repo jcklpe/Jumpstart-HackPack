@@ -9,6 +9,8 @@ Repository for holding information and resources to jumpstart hacakthon or game 
  
  http://michael-gannon.com/media/index.html
  
+ pitch decks: http://pitchdeckers.com/
+ 
  
  
  
