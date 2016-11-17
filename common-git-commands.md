@@ -28,7 +28,7 @@ git merge {Insert git branch name here}
 
 ```bash
 git pull origin master
-
+```
 
 ```bash
 git push -u origin master
