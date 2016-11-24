@@ -9,7 +9,9 @@ Repository for holding information and resources to jumpstart hacakthon or game 
  
  *http://michael-gannon.com/media/index.html  
  *pitch decks: http://pitchdeckers.com/
- *http://stackoverflow.com/questions/9637601/open-cygwin-at-a-specific-folder   <--- git related stuff
+ 
+
+http://freestack.co.uk/
  
  
  
