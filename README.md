@@ -14,7 +14,7 @@ Repository for holding information and resources to jumpstart hacakthon or game 
 http://freestack.co.uk/
  
  
- 
+ Best way to do breakpoints: https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.vkl6jqjk4
  
  
  
