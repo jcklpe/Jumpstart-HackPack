@@ -4,17 +4,17 @@ Repository for holding information and resources to jumpstart hacakthon or game 
 
 Sketch of the structure to be created for hack-pack:
 
-1. Design Operations
- 1.2 Toolchain
-  1.2.1 Git
-  1.2.2 Creative Cloud
-     1.2.2.1 Useful plugins
-        1.2.2.1.1 Free
-        1.2.2.1.2 Paid
-  1.2.3 Google Docs
-  1.2.4 Trello
-  1.2.5 Slack
-  1.2.6 Physical tools checklist
+-Design Operations  
+--Toolchain  
+---Git  
+---Creative Cloud  
+----Useful plugins  
+-----Free  
+-----Paid  
+---Google Docs  
+---Trello  
+---Slack  
+--Physical tools checklist  
 
  
 
