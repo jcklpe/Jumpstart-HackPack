@@ -2,19 +2,7 @@
 Repository for holding information and resources to jumpstart hacakthon or game jam projects
 
 
-Sketch of the structure to be created for hack-pack:
-
--Design Operations  
---Toolchain  
----Git  
----Creative Cloud  
-----Useful plugins  
------Free  
------Paid  
----Google Docs  
----Trello  
----Slack  
---Physical tools checklist  
+Sketch of the structure to be created for hack-pack can be found on the main page of the github wiki
 
  
 
