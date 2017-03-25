@@ -30,3 +30,5 @@ http://freestack.co.uk/
  
  
  https://github.com/dixonandmoe/rellax
+
+Free patterns: http://novapattern.com/
