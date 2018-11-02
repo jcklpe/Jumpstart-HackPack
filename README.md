@@ -6,4 +6,7 @@ Organizations are like a city, filled with homes and businesses. These businesse
 3. Document this information and provide a distributable, community system for other organizations to use and contribute to, in the spirit of OPEN SOURCE SOFTWARE. 
 
 The primariy location for the information presented in this document can be found in the wiki here:
-https://github.com/thedonquixotic/Jumpstart-HackPack/wiki
+https://github.com/jcklpe/Jumpstart-HackPack/wiki
+
+**Status of the project**
+I've been learning a ton and I'm finally finally coming to a point where I can meaningfully contribute to this project. Basically the last year and a half has been me relearning and relearning better ways of doing things and I think I'm finally hitting a nice steady state where I can actually document my stable processes.  
